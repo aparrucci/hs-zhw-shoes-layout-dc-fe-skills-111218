@@ -24,4 +24,17 @@
 
 /* Positioning Classes */
 
+.column {
+  float: left;
+margin: 0 50px;
+width: 30%;
+}
+
+.small {
+  width: 100%;
+}
+  
+  .med {
+    width: 200%;
+  }
 
